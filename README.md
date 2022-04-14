@@ -1,4 +1,4 @@
-# Jitsi Meet on Docker
+# MERQ Meet on Docker
 
 ![](resources/jitsi-docker.png)
 
